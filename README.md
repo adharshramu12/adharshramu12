@@ -1,267 +1,455 @@
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          HERO — ANIMATED HEADER                       -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:0A4D5C,100:00E5FF&text=ADHARSH%20KUMAR&fontColor=ffffff&fontSize=70&fontAlignY=32&desc=Founder%20•%20AI%20Engineer%20•%20Security%20Builder&descAlignY=52&descSize=18&animation=fadeIn&stroke=00E5FF&strokeWidth=1" />
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        HERO — CUSTOM SVG BANNER                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-<a href="https://arvatalksacademy.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=Founder+%40+ARVA+Talks+Academy;Building+Multi-Agent+AI+Systems;Cybersecurity+%26+Blockchain+%7C+KL+University;Mission%3A+10%2C000+AI+Engineers+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<a href="https://github.com/adharshramu12">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,2,5,30&text=ADHARSH%20KUMAR&fontColor=ffffff&fontSize=80&fontAlignY=36&desc=Founder%20•%20AI%20Engineer%20•%20Security%20Builder&descAlignY=56&descSize=20&animation=fadeIn" width="100%" alt="header"/>
 </a>
 
 <br/>
 
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/Based_in-Vijayawada,_India-00E5FF?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Batch-2027-FFB300?style=for-the-badge&labelColor=0D1117&logo=graduation-cap&logoColor=FFB300" />
-<img src="https://img.shields.io/badge/Open_to-Collaborations-00E676?style=for-the-badge&labelColor=0D1117&logo=handshake&logoColor=00E676" />
-
-<br/><br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=adharshramu12&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" />
-<a href="https://github.com/adharshramu12?tab=followers">
-  <img src="https://img.shields.io/github/followers/adharshramu12?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
+<!-- LIVE TYPING ANIMATION -->
+<a href="https://arvatalksacademy.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2400&pause=600&color=00E5FF&center=true&vCenter=true&multiline=false&width=900&height=70&lines=%F0%9F%9A%80+Founder+%40+ARVA+Talks+Academy;%F0%9F%A4%96+Building+Multi-Agent+AI+Systems;%F0%9F%94%90+Cybersecurity+%26+Blockchain+%7C+KL+University;%F0%9F%92%A1+Mission%3A+10%2C000+AI+Engineers+from+India" alt="Typing SVG" />
 </a>
-<a href="https://github.com/adharshramu12?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOS-24-00E5FF?style=for-the-badge&labelColor=0D1117&logo=github" />
-</a>
+
+<br/>
+
+<!-- STATUS ROW -->
+<p>
+  <img src="https://img.shields.io/badge/📍_Based_in-Vijayawada,_India-00E5FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎓_Batch-2027-FFB300?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/💼_Open_to-Work_&_Collabs-00E676?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<!-- SOCIAL PROOF ROW -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=adharshramu12&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/adharshramu12?label=FOLLOWERS&style=for-the-badge&color=FFB300&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/adharshramu12?label=TOTAL+STARS&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/REPOS-56-00E676?style=for-the-badge&labelColor=0D1117&logo=github" />
+</p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/adharshramu12/adharshramu12/output/dist/divider.svg" width="100%" onerror="this.style.display='none'"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              WHOAMI                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0D1117&height=3&section=header" width="100%"/>
-</div>
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake.svg" width="100%" onerror="this.style.display='none'"/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                              IDENTITY                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+## <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="35"/> &nbsp; `~/whoami`
 
-## <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="35"> &nbsp;`whoami`
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```typescript
 const adharsh = {
-  role:        "Founder & AI Engineer",
-  location:    "Vijayawada, Andhra Pradesh 🇮🇳",
-  education:   "B.Tech CSIT — Cybersecurity & Blockchain @ KL University",
-  currently:   ["Multi-Agent AI Systems", "Agentic Workflows", "AI Education"],
-  ventures:    4,
-  learners:    "2,500+",
-  philosophy:  "Don't think small. Think big. We never give up.",
-  mission:     "Develop 10,000 AI Engineers from India"
+  identity: {
+    name:      "Adharsh Kumar Bachu",
+    role:      "Founder & AI Engineer",
+    location:  "Vijayawada, India 🇮🇳",
+    education: "B.Tech CSIT — Cybersecurity & Blockchain",
+    college:   "KL University, 2027 batch",
+    cgpa:      9.0
+  },
+
+  building: [
+    "Multi-Agent AI Organizations",
+    "Agentic Workflows & MCP Servers",
+    "Voice-Controlled OS Automation",
+    "AI Education for 10,000+ Builders"
+  ],
+
+  ventures:  4,
+  learners:  "2,500+",
+  community: "860+ members",
+
+  philosophy: "Don't think small. Think big.",
+  mission:    "10,000 AI Engineers from India."
 };
 ```
 
-> **I build AI systems that do real work — not demos.**
-> Four ventures. One mission. Zero external funding.
-> Everything you see here was shipped while studying full-time.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=3&section=header" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                            VENTURE STACK                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;The Venture Stack
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 ARVA Talks Academy
-**AI Education Platform**
-
-Two tracks — Junior (ages 10–17) and Pro (working professionals). Teaching agentic AI workflows, RAG systems, MCP servers, and prompt engineering.
-
-`2,500+ learners` · `DPIIT Recognised` · `MSME-Udyam`
-
-[![Visit](https://img.shields.io/badge/arvatalksacademy.com-00E5FF?style=flat-square&labelColor=0D1117&logo=googlechrome&logoColor=00E5FF)](https://arvatalksacademy.com)
-
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### ⚡ Arva Astra
-**AI Tools & Intelligence Platform**
+### The 30-second version
 
-Curated AI tooling, technical breakdowns, and *The ARVA Signal* — a LinkedIn newsletter cutting through AI noise for builders.
+I build **AI systems that do real work** — not demos.
 
-`Newsletter` · `Tooling` · `Loop Engineering`
+**4 ventures.** One mission. Zero funding.
 
-[![Visit](https://img.shields.io/badge/arvaastra.me-00E5FF?style=flat-square&labelColor=0D1117&logo=googlechrome&logoColor=00E5FF)](https://arvaastra.me)
+Everything you see here shipped **while studying full-time.**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🎬 Adharsh Vibe Studio
-**AI Content & Video Production**
+**🎯 Currently obsessed with:**
+- Multi-agent orchestration
+- Rules-before-AI pipelines
+- Making India's next 10,000 builders
 
-AI-native film treatments, teasers, and automated content pipelines. Built on Veo, Suno, and generative video workflows.
+<br/>
 
-`Film` · `AI Video` · `Content Pipelines`
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFB300?style=flat-square&labelColor=0D1117&logo=vercel&logoColor=FFB300)](https://adharsh-kumar-bachu.lovable.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 ARVA Updates
-**AI Content Brand**
-
-Daily AI intelligence for Indian students and builders — distributed across Telegram, Instagram, LinkedIn, and YouTube.
-
-`860+ Community` · `Multi-Platform`
-
-[![Instagram](https://img.shields.io/badge/@indianaikid-FFB300?style=flat-square&labelColor=0D1117&logo=instagram&logoColor=FFB300)](https://instagram.com/indianaikid)
+**🤝 Open to:**
+- Full-stack roles
+- AI engineering
+- Agentic systems
+- Cybersecurity engineering
 
 </td>
 </tr>
 </table>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0D1117&height=3&section=header" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                           FEATURED BUILDS                             -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"> &nbsp;Featured Builds
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          THE VENTURE STACK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=THE+VENTURE+STACK" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 &nbsp;`ARVA Talks Academy`
+**AI Education Platform**
+
+Two tracks — **Junior** (ages 10–17) and **Pro** (working professionals). Teaching agentic workflows, RAG, MCP servers, and prompt engineering.
+
+<p>
+  <img src="https://img.shields.io/badge/2,500+_LEARNERS-00E5FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/DPIIT_Recognised-FFB300?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MSME_Udyam-00E676?style=flat-square&labelColor=0D1117" />
+</p>
+
+`Next.js` `Clerk` `Supabase` `Razorpay` `Cashfree`
+
+<a href="https://arvatalksacademy.com">
+  <img src="https://img.shields.io/badge/🌐_arvatalksacademy.com-0D1117?style=for-the-badge&logoColor=00E5FF" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ &nbsp;`Arva Astra`
+**AI Tools & Intelligence Platform**
+
+Curated AI tooling, deep technical breakdowns, and **The ARVA Signal** — a LinkedIn newsletter cutting through AI noise for real builders.
+
+<p>
+  <img src="https://img.shields.io/badge/NEWSLETTER-00E5FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AI_TOOLING-FFB300?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LOOP_ENGINEERING-00E676?style=flat-square&labelColor=0D1117" />
+</p>
+
+`Research` `Curation` `Newsletter Ops`
+
+<a href="https://arvaastra.me">
+  <img src="https://img.shields.io/badge/⚡_arvaastra.me-0D1117?style=for-the-badge&logoColor=00E5FF" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 &nbsp;`Adharsh Vibe Studio`
+**AI Content & Video Production**
+
+AI-native film treatments, teasers, and automated content pipelines. Built on generative video and voice synthesis workflows.
+
+<p>
+  <img src="https://img.shields.io/badge/AI_FILM-00E5FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AUTOMATED_PIPELINES-FFB300?style=flat-square&labelColor=0D1117" />
+</p>
+
+`Veo` `Suno` `DALL-E` `Google Flow`
+
+<a href="https://adharsh-kumar-bachu.lovable.app">
+  <img src="https://img.shields.io/badge/🎬_Portfolio-0D1117?style=for-the-badge&logoColor=FFB300" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 &nbsp;`ARVA Updates`
+**AI Content Brand**
+
+Daily AI intelligence for Indian students and builders — distributed across Telegram, Instagram, LinkedIn, YouTube, and Medium.
+
+<p>
+  <img src="https://img.shields.io/badge/860+_COMMUNITY-00E5FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MULTI_PLATFORM-FFB300?style=flat-square&labelColor=0D1117" />
+</p>
+
+`Telegram` `Instagram` `LinkedIn` `YouTube`
+
+<a href="https://instagram.com/indianaikid">
+  <img src="https://img.shields.io/badge/📡_@indianaikid-0D1117?style=for-the-badge&logoColor=E4405F" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          FEATURED BUILDS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=FEATURED+BUILDS" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🎙️ &nbsp;SEETHA
+**Voice-Controlled AI Laptop Assistant**
+
+```
+Stack:   Python · Local LLMs · Computer Vision
+Handlers: 31   Tests: 28   License: MIT
+```
+
+A **rules-before-AI** execution pipeline — deterministic commands resolve locally before an LLM is ever called. Vision-verified execution confirms each action *actually* completed instead of assuming success.
 
 <a href="https://github.com/adharshramu12/Seetha_ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adharshramu12&repo=Seetha_ai&theme=react&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&border_color=1F2937&hide_border=false" />
+  <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🏢 &nbsp;BACHU
+**Multi-Agent AI Organization**
+
+```
+Stack:   Node.js · Python · FastAPI · Next.js
+Layers:  CEO Agent · Departments · Router
+```
+
+A multi-agent system structured like a **real organization** — CEO agent, specialist departments, parallel reasoning, live boardroom-style debate over WebSockets, with a role-based Knowledge Router.
+
 <a href="https://github.com/adharshramu12/Bachu-Ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adharshramu12&repo=Bachu-Ai&theme=react&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&border_color=1F2937&hide_border=false" />
+  <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🖥️ &nbsp;ARVA AGENT OS
+**Agentic Operating System Layer**
+
+```
+Stack:   Go
+Focus:   Systems-level agent orchestration
+```
+
+An OS-layer for AI agent orchestration written in Go. Applies systems-programming discipline to the messy world of agent coordination — memory, concurrency, resource limits.
 
 <a href="https://github.com/adharshramu12/ARVA-AGENT-OS">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adharshramu12&repo=ARVA-AGENT-OS&theme=react&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&border_color=1F2937&hide_border=false" />
+  <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🔁 &nbsp;ARVA ASANA CLONE
+**Automated UI Cloning Agent**
+
+```
+Stack:   JavaScript · Playwright · AI Agents
+Output:  Pixel-accurate replication
+```
+
+Fully automated Asana cloning agent — replicates tasks, sections, projects, and UI with **pixel-accurate stability**. Built using AI agents plus modern frontend automation.
+
 <a href="https://github.com/adharshramu12/ARVA-ASANA-CLONE-AGENT">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adharshramu12&repo=ARVA-ASANA-CLONE-AGENT&theme=react&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&border_color=1F2937&hide_border=false" />
+  <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/adharshramu12?tab=repositories">
+  <img src="https://img.shields.io/badge/📁_See_all_56_repositories-0D1117?style=for-the-badge&labelColor=00E5FF&color=0D1117" />
 </a>
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              ARSENAL                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <br/>
-
-<details>
-<summary><b>🔍 &nbsp;What's actually inside these builds</b></summary>
-
-<br/>
-
-| Project | The Hard Part |
-|:---|:---|
-| **🎙️ SEETHA** | A *rules-before-AI* execution pipeline — deterministic commands resolve locally before an LLM is ever called. 31 action handlers. Vision-verified execution confirms each action actually completed instead of assuming success. 28 offline tests. MIT licensed. |
-| **🏢 BACHU** | A multi-agent AI **organization** — CEO agent, specialist departments, parallel reasoning, live boardroom-style debate. Role-based Knowledge Router assigns different research sources per agent. WebSocket streaming for real-time execution. Provider abstraction supports local + cloud backends with fallback. |
-| **🖥️ ARVA AGENT OS** | Agentic operating-system layer written in Go. Systems-level thinking applied to agent orchestration. |
-| **🔁 ARVA ASANA CLONE** | Fully automated cloning agent — replicates tasks, sections, projects and UI with pixel-accurate stability using AI agents + modern frontend automation. |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=3&section=header" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                              ARSENAL                                  -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> &nbsp;Arsenal
 
 <div align="center">
 
-**`LANGUAGES`**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E76F00)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-**`AI · AGENTS · ORCHESTRATION`**
-
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00E5FF)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)
-![CrewAI](https://img.shields.io/badge/CrewAI-0D1117?style=for-the-badge&logo=probot&logoColor=FFB300)
-![Claude](https://img.shields.io/badge/Claude_API-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=412991)
-![RAG](https://img.shields.io/badge/RAG_Systems-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![MCP](https://img.shields.io/badge/MCP_Servers-0D1117?style=for-the-badge&logo=protocolsdotio&logoColor=00E5FF)
-
-**`FRONTEND`**
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**`BACKEND · INFRA`**
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-
-**`SECURITY`**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Burp](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
-![OWASP](https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=THE+ARSENAL" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0D1117&height=3&section=header" width="100%"/>
+<table>
+<tr>
+<td valign="top" width="20%">
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                              THE NUMBERS                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+**🗣️ LANGUAGES**
 
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> &nbsp;The Numbers
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,go,c,bash&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+
+**🤖 AI & AGENTS**
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" />
+<img src="https://img.shields.io/badge/CrewAI-0D1117?style=for-the-badge&logo=probot&logoColor=FFB300" />
+<img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=protocolsdotio&logoColor=00E5FF" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+
+**🎨 FRONTEND**
+
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+
+**⚙️ BACKEND**
+
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,supabase,postgres,mysql&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+
+**☁️ CLOUD & DEVOPS**
+
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,github,linux,bash&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+
+**🔐 SECURITY**
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+<img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=2596CD" />
+<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=FFFFFF" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+
+**🛠️ WORKFLOW**
+
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion&theme=dark" />
+<img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+<img src="https://img.shields.io/badge/Zapier-0D1117?style=for-the-badge&logo=zapier&logoColor=FF4A00" />
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            THE NUMBERS                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
 
-<img width="57%" src="https://github-readme-stats.vercel.app/api?username=adharshramu12&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&text_color=C9D1D9&border_color=1F2937&hide_border=false&rank_icon=github" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adharshramu12&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=1F2937&hide_border=false" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=THE+NUMBERS" />
 
 <br/><br/>
 
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=adharshramu12&theme=react&background=0D1117&ring=00E5FF&fire=FFB300&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&border=1F2937" />
+<!-- STATS ROW 1 -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adharshramu12&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=00E5FF&icon_color=FFB300&text_color=C9D1D9&border_color=1F2937&hide_border=false&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=adharshramu12&theme=react&background=0D1117&ring=00E5FF&fire=FFB300&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&border=1F2937&hide_border=false" />
 
 <br/><br/>
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=adharshramu12&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFB300&area=true&area_color=0A4D5C&hide_border=false&border_color=1F2937&custom_title=Contribution%20Activity" />
+<!-- STATS ROW 2 -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adharshramu12&layout=compact&langs_count=10&theme=react&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=1F2937&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=adharshramu12&layout=compact&theme=react&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=1F2937&hide_border=false" onerror="this.style.display='none'" />
 
 <br/><br/>
 
-<img width="99%" src="https://github-profile-trophy.vercel.app/?username=adharshramu12&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<!-- ACTIVITY GRAPH -->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=adharshramu12&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFB300&area=true&area_color=0A4D5C&hide_border=false&border_color=1F2937&custom_title=Weekly%20Contribution%20Activity" />
+
+<br/><br/>
+
+<!-- TROPHIES -->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=adharshramu12&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commit,Repositories,Stars,Followers,PullRequest,Issues,Reviews" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=3&section=header" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          CONTRIBUTION SNAKE                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          CONTRIBUTION SNAKE                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Commits, Consumed
+<br/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=COMMITS%2C+CONSUMED" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adharshramu12/adharshramu12/output/snake-dark.svg" />
@@ -271,67 +459,136 @@ Daily AI intelligence for Indian students and builders — distributed across Te
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0D1117&height=3&section=header" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         CERTIFICATIONS & AWARDS                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                              THE MISSION                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<br/>
 
 <div align="center">
 
-## 🎯 &nbsp;The Mission
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3500&pause=1000&color=FFB300&center=true&vCenter=true&width=900&height=70&lines=10%2C000+AI+Engineers+from+India;Not+course+sellers.+Builders.;Don't+think+small.+Think+big." alt="Mission" />
-
-<br/>
-
-> ### *"We don't make course sellers. We make builders."*
-
-India produces 1.5 million engineers a year. Almost none of them can ship an agentic system.
-**ARVA exists to change that number — one builder at a time.**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Learners_Trained-2,500+-00E5FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Community-860+-FFB300?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Target-10,000-00E676?style=for-the-badge&labelColor=0D1117" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=CREDENTIALS+%26+RECOGNITION" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=3&section=header" width="100%"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                               CONNECT                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+### 🎖️ &nbsp;Certifications
+
+- **Oracle Certified Generative AI Professional** — Oracle
+- **Salesforce Certified AI Associate** — Salesforce
+- **IBM SkillsBuild AI/ML** — IBM
+- **Cambridge Lingua Skills** — English Proficiency
+- **Anthropic Claude Certification**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 &nbsp;Recognition
+
+- 🥇 **National Finalist** — Guidewire DEVTrails 2026 (GigShield)
+- 🚀 **DPIIT / Startup India** recognised founder
+- 📋 **MSME-Udyam** registered
+- 🎯 Participant — Google Gemma, KLU Ideathon, Agentic AI Hackathon
+- 📚 Consistent 9.0 CGPA at KL University
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              THE MISSION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <div align="center">
 
-## 🔗 &nbsp;Let's Build Something
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=3500&pause=1000&color=FFB300&center=true&vCenter=true&width=1000&height=90&lines=10%2C000+AI+Engineers+from+India;Not+course+sellers.+Builders.;Don't+think+small.+Think+big." alt="Mission" />
+
+<br/>
+
+</div>
+
+> ### <p align="center">🎯 &nbsp;*"We don't make course sellers. We make builders."*</p>
+>
+> India produces **1.5 million engineers** every year. Almost none of them can ship a working agentic system today.
+>
+> **ARVA exists to change that number — one builder at a time.**
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARNERS_TRAINED-2,500+-00E5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/COMMUNITY-860+-FFB300?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TARGET-10,000-00E676?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PROGRESS-25%25-D97757?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             DEV QUOTE                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           LET'S CONNECT                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=LET%27S+BUILD+SOMETHING" />
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/adharsh-kumar-bachu">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
 </a>
+&nbsp;
 <a href="https://instagram.com/indianaikid">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" height="40" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" />
 </a>
+&nbsp;
 <a href="https://arvatalksacademy.com">
-  <img src="https://img.shields.io/badge/Academy-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" height="40" />
+  <img src="https://img.shields.io/badge/Academy-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" />
 </a>
+&nbsp;
 <a href="https://arvaastra.me">
-  <img src="https://img.shields.io/badge/Arva_Astra-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="40" />
+  <img src="https://img.shields.io/badge/Arva_Astra-000000?style=for-the-badge&logo=vercel&logoColor=white" height="42" />
 </a>
+&nbsp;
 <a href="mailto:adharshklu1234@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" height="40" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
 </a>
 
 <br/><br/>
 
-**Open to:** `Full-Stack Roles` · `AI Engineering` · `Agentic Systems` · `Security Engineering` · `Collaborations`
+**Currently open to:** &nbsp; `AI Engineering` &nbsp;·&nbsp; `Full-Stack Roles` &nbsp;·&nbsp; `Agentic Systems` &nbsp;·&nbsp; `Security Engineering` &nbsp;·&nbsp; `Speaking & Collaborations`
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling+this+far.;Now+go+build+something.;%E2%AD%90+Star+a+repo+if+something+here+helped+you." alt="Outro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=50&lines=Thanks+for+scrolling+this+far.;Now+go+build+something.;%E2%AD%90+Star+a+repo+if+something+here+helped+you." alt="Outro" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00E5FF,50:0A4D5C,100:0D1117&animation=fadeIn" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=30,5,2,2,0&animation=fadeIn" />
+
+<div align="center">
+
+<sub>Built with ❤️ from Vijayawada, India — where 5AM commits are just called "sunrise coding". 🌅</sub>
+
+</div>
