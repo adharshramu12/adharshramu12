@@ -9,9 +9,9 @@ and I'd rather an agent ask me twice than spend my money once.
 
 ```text
 status    shipping Delta 0.4.0 in public
-building  an agent that controls the PC, checks its own work, and stops when you press Esc
-teaching  people to build AI agents, not just watch videos about them
-mascot    Tri (above). It's a triangle. Delta is a triangle. It made sense at 3 am.
+building  an agent that runs your PC and checks its own work
+teaching  people to build agents, not watch videos about them
+mascot    Tri. Delta is a triangle. It made sense at 3 am.
 ```
 
 ### What I'm building
