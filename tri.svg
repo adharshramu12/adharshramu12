@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Tri, a small orange triangle with a face">
+  <style>
+    .b{transform-origin:60px 100px;animation:bob 3.2s ease-in-out infinite}
+    .e{transform-origin:60px 67px;animation:blink 5s infinite}
+    @keyframes bob{50%{transform:translateY(-4px) rotate(-2deg)}}
+    @keyframes blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+    @media (prefers-reduced-motion:reduce){.b,.e{animation:none}}
+  </style>
+  <ellipse cx="60" cy="110" rx="40" ry="4" fill="#8884"/>
+  <g class="b">
+    <path d="M60 10 L112 100 L8 100 Z" fill="#E07A47" stroke="#9C4A22" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M40 52 L54 55 M80 52 L66 55" stroke="#3A2418" stroke-width="3" stroke-linecap="round"/>
+    <g class="e">
+      <ellipse cx="49" cy="66" rx="8" ry="10" fill="#fff"/><ellipse cx="71" cy="66" rx="8" ry="10" fill="#fff"/>
+      <circle cx="51" cy="69" r="4.5" fill="#2A2420"/><circle cx="73" cy="69" r="4.5" fill="#2A2420"/>
+    </g>
+    <path d="M51 84 Q60 92 69 84" fill="none" stroke="#2A2420" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="38" cy="82" rx="5" ry="3" fill="#F2A7A7"/><ellipse cx="82" cy="82" rx="5" ry="3" fill="#F2A7A7"/>
+  </g>
+</svg>
